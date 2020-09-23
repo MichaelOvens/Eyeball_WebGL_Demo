@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Eyeballs Made Easy WebGL",
+"productVersion": "0.1",
+"dataUrl": "EME Build.data.unityweb",
+"wasmCodeUrl": "EME Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "EME Build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.5f1"
+}
